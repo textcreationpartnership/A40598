@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters sent from His Excellency, Sir Thomas Fairfax and the officers of the army, to the Right Honorable the Lord Mayor, aldermen, and Commons of the city of London in Common-Councell assembled with their answer to the said letters.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40598</idno>
+            <idno type="STC">Wing F233</idno>
+            <idno type="STC">ESTC R226450</idno>
+            <idno type="EEBO-CITATION">12044400</idno>
+            <idno type="OCLC">ocm 12044400</idno>
+            <idno type="VID">53076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 67:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters sent from His Excellency, Sir Thomas Fairfax and the officers of the army, to the Right Honorable the Lord Mayor, aldermen, and Commons of the city of London in Common-Councell assembled with their answer to the said letters.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53076:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:53076:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>SEVERALL LETTERS SENT From His Excellency Sir <hi>THOMAS FAIRFAX,</hi> AND The Officers of the Army.</p>
+            <p>TO THE Right Honorable the Lord Major, Aldermen, and Commons of the City of LONDON, in Common-Councell ASSEMBLED.</p>
+            <p>With their Anſwer to the ſaid Letters.</p>
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Honourable City of <hi>London,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:53076:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:53076:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>FOR THE RIGHT HONORABLE THE Lord Major, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Councell of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E received yours of the Eighteenth of this inſtant, whereof, though all paſſa<g ref="char:EOLhyphen"/>ges were not ſo anſwerable to our ex<g ref="char:EOLhyphen"/>pectation as we hoped, yet we appre<g ref="char:EOLhyphen"/>hend the ſame good affection in you towards this Army, as was expreſſed in your former Letter: And that not onely from the aſſurance of the worthy Gentlemen, (your Commiſ<g ref="char:EOLhyphen"/>ſioners) again ſent to us; but alſo from that informa<g ref="char:EOLhyphen"/>tion we have received of your extraordinary endevors to procure Money for the Army: To prevent further raiſing or liſting of Souldiers, and to procure thoſe already Liſted to be disbanded, (ſome Perſons of your <hi>Militia</hi> onely, having been active for the raiſing of<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:53076:4"/>
+            <!-- PDF PAGE 28 -->
+            <p>And for the things expreſt in our Repreſentation though of weighty importance, yet becauſe they will require time, they ſhall be no occaſion to impede our remove, and in the meane time both by Proclamation from his Excellency, and all other wayes we ſhall en<g ref="char:EOLhyphen"/>deavour, That the accuſtomed ſupplies to your City, may be freely ſent up.</p>
+            <p>To conclude, we ſay from our hearts, That as our eſpeciall ends are the glory of God, and the good of this whole Land, ſo our endeavours ſhall be to proſe<g ref="char:EOLhyphen"/>cute the ſame without prejudice to the being or well-being of Parliament in generall, (the maintenance whereof we value above our own lives) or (as we have formerly ſaid) of this Parliament in particular, but altogether in order to the good and peace of this Na<g ref="char:EOLhyphen"/>tion, and with a moſt tender regard to your City, to which we profeſſe we ſhall by all actions make good all engagements tending to the ſecurity thereof, in what way your ſelves ſhall deſire, conſiſting with the good of the whole Kingdome, you making good your mutuall correſpondency with us, not doing any thing to our prejudice in the proſecution of our juſt deſires and endeavours.</p>
+            <closer>
+               <dateline>St. Albans, <date>June 21. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>WE heare (even now) ſince the writing of this Letter, that (yeſterday) divers of the Reforma<g ref="char:EOLhyphen"/>does came again (in a threatening manner) to <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> the Houſe of Commons then ſitting, to the great
+<pb n="5" facs="tcp:53076:4"/>
+               <!-- PDF PAGE 28 -->affrightment and terrour of divers faithfull Members then preſent, and to diſcouragement of others from their attendance there; ſo that we cannot but perceive that the freedome of this Parliament is no better than that thoſe Members (who ſhall according to their con<g ref="char:EOLhyphen"/>ſciences endeavour to prevent a ſecond Warre, and act contrary to their wayes, who (for their own preſerva<g ref="char:EOLhyphen"/>tion) intend it, they) muſt do it with the hazzard of their lives; which indeed is a thing ſo deſtructive to Parliaments, and Freedome, that we conceive our ſelves in duty bound to endeavour to the utmoſt to procure redreſſe therein.</p>
+            <closer>
+               <dateline>
+                  <date>June 22. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellency Sir <hi>THOMAS FAIRFAX</hi>and the Councell of Warre. <hi>Jo. Ruſhworth,</hi> Secretary.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:53076:5"/>
+            <!-- PDF PAGE 29 -->
+            <head>For the Right Honourable the Lord Major, Aldermen, and Common-Councell of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord and Gent.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE have in all things dealt clearly and plainly with you, and hope wee ſhall con<g ref="char:EOLhyphen"/>tinue ſtill to doe ſo. As ſoon as the worthy Alderman, and the other two Gent. your Commiſſioners came the laſt night to us; wee ac<g ref="char:EOLhyphen"/>quainted them with our purpoſe to draw the Head-Quarter to <hi>Uxbridge,</hi> that ſo mee might contract our Quarters which have hitherto lien ſcattered: at which place we hope to receive that which will be ſatisfacti<g ref="char:EOLhyphen"/>on to the Kingdome, and will remove obſtructions out of the way of Juſtice; wherein if right were done, wee ſhould let you and all the world ſee, that we would be ſo farre from preſſing neer your City of <hi>London,</hi> it ſhould be indifferent to us to march not onely to the diſtance already preſcribed, but to any part of the Kingdome we ſhould be commanded to by the Parli<g ref="char:EOLhyphen"/>ament; we have asked nothing hitherto but right in the things that are knowne, as if they were proved an hun<g ref="char:EOLhyphen"/>dred
+<pb n="7" facs="tcp:53076:5"/>
+               <!-- PDF PAGE 29 -->times before them from whom wee have ſought them, which if granted would not onely be a Juſtice to the Army, but would let the Kingdome ſee the Fountaine in a way to be cleared, without which no<g ref="char:EOLhyphen"/>thing of force or power would be a ſecurity to any man. We wiſh the name of priviledges may not lie in the ballance with the ſafety of a Kingdome, and the re<g ref="char:EOLhyphen"/>alitie of doing Juſtice, which as we have ſaid too often we cannot expect whilſt the perſons we have accuſed are the Kingdomes and our Judges; A little delay wil indanger the putting the Kingdome into bloud, not<g ref="char:EOLhyphen"/>withſtanding what hath bin ſaid, if it be confidered that in <hi>wales</hi> (beſides under-hand-workings in your City) and other places, men are raiſed, and that in no ſmal numbers. And are not thoſe men in the Paliament who have continued faithfull to the principles of common intereſt from the beginning of the Parliament to this very day, ſtill awed by the concourſe of Refor<g ref="char:EOLhyphen"/>mado Officers and others to their doores? Expence of time will be their advantage only who intend to bring evill purpoſes to paſſe: we have written this to you for your ſatisfaction, that ſo nothing may be done without giving you a perfect account of our intentions and ends; And ſtill to continue our aſſurance to you, That ſhould neceſſity bring us nearer to the City, our former Faith given you ſhall be obſerved inviolably, there being nothing more (next the good of the King<g ref="char:EOLhyphen"/>dome) in our thoughts and deſires, then the proſperity of your City.</p>
+            <closer>
+               <dateline>Barkhamſtead, <date>June 25. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and the Councell of Warre. Signed; Jo. Ruſhworth.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:53076:6"/>
+            <!-- PDF PAGE 30 -->
+            <head>For his Excellency Sir <hi>Tho. Fairfax,</hi> Knight Generall of the Forces raiſed by the Parliament, and his Ho<g ref="char:EOLhyphen"/>norable Councell of War.</head>
+            <opener>
+               <salute>May it pleaſe your Excellencie, and the honorable Councell of War.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ee the Major, Aldermen, and Commons in Com<g ref="char:EOLhyphen"/>mon-Councell aſſembled, having received yours to us of the <hi>21.</hi> and <hi>22.</hi> and your Excellencies to our Committee of the <hi>23.</hi> instant; with a Copy of a Remonſtrance directed to the Parliament; did ſend three of that number yesterday to acquaint you with our reſolutions thereupon, ſince which wee have cauſed Co<g ref="char:EOLhyphen"/>pies of thoſe Letters to be preſented to both Houſes, deſiring their direction concerning the reſiding of ſome of that Committee continually with you in the head-Quarter; and that according to our former requeſts the Reformadoes and other Officers and Souldiers raiſed for the ſervice of the Parliament, might be required forthwith to repaire into their ſeverall Counties, there to receive ſuch ſatisfaction as is or ſhall be appointed by Parliament; and that if any Souldiers be liſted upon the Votes of the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons, and Committee of the Militia, that they may be forth<g ref="char:EOLhyphen"/>with diſcharged. Whereupon ſeverall Votes were made, unto which wee deſire to be referred.</p>
+            <p>Wee have alſo taken thoſe Letters (with another re<g ref="char:EOLhyphen"/>ceived from thoſe wee ſent yeſterday, and a Copie of a Letter dated the <hi>24.</hi> inſtant, delivered to the Commiſsioners of Parliament, and yours of the <hi>25.</hi> inſtant) into further conſideration, thereby obſerving the conſtancie of your ex<g ref="char:EOLhyphen"/>preſsions,
+<pb n="9" facs="tcp:53076:6"/>
+               <!-- PDF PAGE 29 -->to doe nothing in prejudice either of the Parli<g ref="char:EOLhyphen"/>ament or City, and of your purpoſe by Proclamation, and otherwiſe, to endeavour that the accuſtomed ſupplies of this City may be freely ſent up; all which wee doe with all due thankefulneſſe acknowledge, and to preſerve aright un<g ref="char:EOLhyphen"/>derſtanding with you, wee have appointed the ſaid Com<g ref="char:EOLhyphen"/>mittee, or ſix of them at the leaſt, continually to reſide in your head-Quarter, and do intend to make it our requeſt to the Parliament, that who ever have or ſhall endeavour to raiſe any forces to ingage this Kingdome in a new Warre, may be diſcovered and prevented therein; and that you may receive ſatisfaction equall to thoſe that have left the Army, ſo ſoone as it is poſsible for the Parliament to performe the ſame; relying upon the aſſurance you have given us, that your ſpeciall ends are the glory of God, the good of this whole land, and the ſafety of Parliament and City. To conclude, the neere approach of your Army to this City, cauſeth us once more to deſire you to take it into your most ſerious conſideration; for albeit you doe not come to offer any violence to us, yet wee have and ſhall ſuffer very much in our trade and price of Victualls by reaſon thereof, which wee hope you will bee ſo ſenſible of, as to prevent it in the ſuture, by removing further off, and by taking ſuch a courſe that wee may receive no further prejudice either in the one or the other, which is our earneſt deſire, and that in your in<g ref="char:EOLhyphen"/>deavours to ſave the kingdome from ruine, you doe not o<g ref="char:EOLhyphen"/>verthrow the fundamentall conſtitution of Parliament, which is eſſentiall to the well-being thereof.</p>
+            <closer>
+               <dateline>London <date>25. June, 1647.</date>
+               </dateline>
+               <signed>By command of the Major, Aldermen, and Commons of the City of     <hi>London,</hi> in Common-Councell aſſembled. <hi>Michel.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:53076:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>To the Right Honourable the Lord Major, Aldermen and Common-Councell of the City of <hi>LONDON.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T was laſt night reſolved by the Generall and Councell of War, for preſent not to Advance any of the Army nearer <hi>London;</hi> but whereas the Foot (being all quartered then at <hi>Watford, Uxbridge,</hi> and <hi>Colebrook</hi> were very troubleſome and burthenſome to thoſe places, It was onely Ordered, That the quarters of the Foot ſhould be inlarged for the eaſe of thoſe places; whereupon (by a miſtake of that Reſolution in the ſetting out of quarters) ſome Regiments had quarters aſsign<g ref="char:EOLhyphen"/>ed for inlargement at places lying much forwarder towards <hi>London,</hi> as far as <hi>Harrow on the Hill, Hayes, Cran<g ref="char:EOLhyphen"/>ford, Harlington, Bedfont, Feltham</hi> and <hi>Hanworth;</hi> This morning, ſo ſoon as this was underſtood by the Generall and the Officers, there were Orders immediately ſent out to ſtop the Regiments, and now none quartered nearer <hi>London</hi> then <hi>Watford, Riſlip, Ikeham, Hellindon, Cowley, Drayton, Hamſworth, Stanwel</hi> and <hi>Stanes,</hi> which make a line about fifteen or ſixteen miles diſtance from <hi>London:</hi> And to avoid any diſquieting to the Par<g ref="char:EOLhyphen"/>liament or City upon future apprehenſions, His Excellency and His Officers do promiſe, That there ſhall be no farther Advance, either of the Army, or any quarters of it, any near<g ref="char:EOLhyphen"/>er to <hi>London,</hi> without timely notice thereof, and of the Reaſons of it, to the Parliament and City.</p>
+            <closer>
+               <dateline>Uxbridge, <date>June, 26. 1647.</date>
+               </dateline>
+               <signed>By the appointment of his Ex<g ref="char:EOLhyphen"/>lency Sir <hi>Thomas Fairfax,</hi> and the Councell of War. <hi>John Ruſhoworth.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:53076:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
